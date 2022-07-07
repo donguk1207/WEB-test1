@@ -24,12 +24,16 @@ body{
 .join{
     border: 0;
     outline: 0;
-    background-color: rgb(235, 231, 231);
+    background-color: black;
+    height: 40px;
+    width: 400px;
 }
 .bring{
     border: 0;
     outline: 0;
-    background-color: rgb(235, 231, 231);
+    background-color: black;
+    margin-top: 10px;
+    height: 30px;
 }
 .choice{
     height: 40px;
@@ -37,15 +41,15 @@ body{
 }
 .number{
     height: 30px;
-    width: 370px;
+    width: 320px;
 }
 .text1{
     height: 30px;
-    width: 400px;
+    width: 390px;
 }
 .idnum{
     height: 15px;
-    width: 410px;
+    width: 1150px;
     
 }
 .idnum1{
@@ -54,23 +58,23 @@ body{
 }
 .textbox1{
     height: 15px;
-    width: 420px; 
+    width: 1170px; 
 }
 .textbox2{
     height: 15px;
-    width: 470px;
+    width: 1210px;
 }
 .textbox3{
     height: 15px;
-    width: 400px;
+    width: 1140px;
 }
 .name{
     height: 15px;
-    width: 420px;
+    width: 1170px;
 }
 .name1{
     height: 15px;
-    width: 400px;
+    width: 1140px;
 }
 .idnum2{
     height: 30px;
@@ -105,4 +109,73 @@ body{
 .textbox{
     height: 30px;
     width: 400px;
+}
+.button1{
+    border: 0;
+    outline: 0;
+    margin-top: 20px;
+
+    width: 450px;
+    height: 60px;
+    border-radius: 10px;
+    background: linear-gradient( to right, rgb(59, 13, 13), rgb(149, 63, 63) );
+}
+.button2{
+    border: 0;
+    outline: 0;
+    margin-top: 20px;
+
+    width: 450px;
+    height: 60px;
+    border-radius: 10px;
+    background: linear-gradient( to right, rgb(255, 167, 181), rgb(242, 192, 201), rgb(182, 123, 133) );
+}
+.cupon{
+    margin-bottom: 50px;
+}
+.left{
+    text-align: left;
+    margin-left: 20px;
+}
+.main{
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 20px;
+    border-bottom: solid 1px black;
+}
+.button3{
+    border: 0;
+    outline: 0;
+    margin-top: 20px;
+
+    width: 450px;
+    height: 60px;
+    border-radius: 10px;
+    background: linear-gradient( to right,rgb(180, 180, 255),rgb(116, 116, 246),rgb(31, 31, 245) );
+}
+.center{
+    text-align: center;
+}
+.korea{
+    text-align: center;
+    border-bottom: solid 1px black;
+}
+.hello{
+    text-align: center;
+}
+.hello2{
+    margin-top: 20px;
+    height: 30px;
+    width: 400px;
+}
+.hello1{
+    margin-top: 20px;
+    height: 30px;
+    width: 400px;
+}
+.hello3{
+    height: 50px;
+    width: 400px;
+    background-color: rgb(45, 43, 43);
 }
